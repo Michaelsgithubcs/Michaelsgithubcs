@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m looking to collaborate on: mobile app projects and full-stack web applications.<br>I’m looking for help with: improving backend integration and scaling apps with Firebase/Node.js.<br>I’m currently learning: advanced Android development, web frameworks, and database management.<br>Ask me about: Java, Kotlin, Jetpack Compose, Firebase, and web development with Jakarta EE.<br>Fun fact: I once built a whole app feature in one night just because I couldn’t sleep.<br>
+Detail-oriented and analytical computer science graduate with hands-on experience in IT support, virtualization, and object-oriented programming. Strong in identifying and resolving technical issues, managing data securely, and building efficient, user-focused systems. Skilled in cloud platforms, cybersecurity fundamentals, and front-to-back software development, including Java, Jakarta EE, and Android app development with Jetpack Compose. Passionate about using technology to improve everyday solutions, support team goals, and drive innovation. Eager to bring problem-solving and technical expertise to a fast-paced, growth-focused environment.<br>
 
 
 ## 🌐 Socials:
