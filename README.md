@@ -1,5 +1,5 @@
 # 💫 About Me:
-Detail-oriented and analytical computer science graduate with hands-on experience in IT support, virtualization, and object-oriented programming. Strong in identifying and resolving technical issues, managing data securely, and building efficient, user-focused systems. Skilled in cloud platforms, cybersecurity fundamentals, and front-to-back software development, including Java, Jakarta EE, and Android app development with Jetpack Compose. Passionate about using technology to improve everyday solutions, support team goals, and drive innovation. Eager to bring problem-solving and technical expertise to a fast-paced, growth-focused environment.<br>
+Detail-oriented and analytical computer science graduate from Tshwane University of Technology with hands-on experience in IT support, virtualization, and object-oriented programming. Strong in identifying and resolving technical issues, managing data securely, and building efficient, user-focused systems. Skilled in cloud platforms, cybersecurity fundamentals, and front-to-back software development, including Java, Jakarta EE, and Android app development with Jetpack Compose. Passionate about using technology to improve everyday solutions, support team goals, and drive innovation. Eager to bring problem-solving and technical expertise to a fast-paced, growth-focused environment.<br>
 
 
 ## 🌐 Socials:
